@@ -13,6 +13,11 @@
 - [Penetration Testing & Network Security]https://drive.google.com/file/d/193flTI7QaVbi9ulnmkgdlVoTLRhlIOA9/view?usp=drivesdk
 - [CSSLP]https://drive.google.com/file/d/1r153JxRZ5jfRgiGG8wFyyDNifVoU97so/view?usp=drivesdk
 
+<h2>👨‍💻 Education</h2>
+
+- [Grundtvig Polytecnic]
+- [OJP Technologies LTD]
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Introduction to Ethical Hacking(Module 1)](https://youtu.be/4nTDbF5T834?si=9jtx0GHLce-02f-H)
