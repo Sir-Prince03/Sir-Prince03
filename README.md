@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! </h1>
+<h1>Hi, I'm Emmanuel! </h1> <a href="https://www.linkedin.com/in/Anayo Prince/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Sirprince.Officials">Penetration Tester</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
